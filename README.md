@@ -1,4 +1,11 @@
-### Hi there 👋
+### 嗨~欢迎来到我的个人代码空间 👋
+
+![](https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200717110030.gif)
+
+- 🔭 这里有我开发和维护的一个知识管理主题项目...
+![Profile views](http://hits.dwyl.com/xugaoyi/vuepress-theme-vdoing.svg)](http://hits.dwyl.com/xugaoyi/vuepress-theme-vdoing)
+
+- 🌱 做一个终身学习者...
 
 <!--
 **xugaoyi/xugaoyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
