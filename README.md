@@ -1,4 +1,4 @@
-- 🔭 这里有我开发和维护的一个知识管理主题项目 [vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)
+- 🔭 这里有我开发和维护的一个知识管理项目 [vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)
 
 ![](https://github-readme-stats.vercel.app/api?username=xugaoyi&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xugaoyi&layout=compact)
